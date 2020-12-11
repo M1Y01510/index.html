@@ -1,0 +1,102 @@
+<!<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <link rel="stylesheet" href="SJIWP/11_12_2020/main.css">
+</head>
+  <body>
+      <div class="container">
+        <header>
+        <img src="images/logo.svg" alt="23andfour logo" class="logo">
+
+        <nav>
+          <a href="#" class="hide-mobile">
+              <img src="Images/ham.svg" alt="toggle menu" class="menu" id="menu">
+
+          </a>
+
+          <ul class="show-mobile hide-mobile" id="nav">
+            <li id="exit" class="exit-btn hide-mobile"><img src="images/exit.svg" alt="exit menu"></li>
+            <li><a href="#">home</a></li>
+            <li><a href="#">services</a></li>
+            <li><a href="#">about</a></li>
+            <li><a href="#">contact</a></li>
+
+          </ul>
+        </nav>
+      <header>
+        <section>
+          <img src="images/server.svg" alt="server graphic" class="server">
+
+          <h1>Slogan ili naziv tvrtke ide ovdje</h1>
+          <p class="subhead"> Jos prostora za pisanje </p>
+
+          <img src="images/scroll.svg" alt="scroll down" class="scroll hide-mobile show-desktop">
+
+        </section>
+    </div>
+    <div class="blue-container">
+        <div class="container">
+          <ul>
+              <li>
+                <img src="images/icon-1.svg" alt="Calendar icon">
+                <p>Opis dolaska narudbi</p>
+              </li>
+
+              <li>
+                <img src="images/icon-2.svg" alt="Calendar icon">
+                <p>Opis dolaska narudbi</p>
+              </li>
+
+              <li>
+                <img src="images/icon-3.svg" alt="Calendar icon">
+                <p>Opis dolaska narudbi</p>
+              </li>
+          </ul>
+        </div>
+    </div>
+
+    <div class="gray-container">
+        <div class="container">
+          <ul>
+            <li>
+                <img src="images/user1.png" alt="User testimonial picture">
+                <blockquote> Recenzija korisnika1</blockquote>
+                <figcaption>Ime Prezime1 korisnika </figcaption>
+            </li>
+            <li>
+                <img src="images/user2.png" alt="User testimonial picture">
+                <blockquote> Recenzija korisnika2</blockquote>
+                <figcaption>Ime Prezime2 korisnika</figcaption>
+            </li>
+          </ul>
+
+        </div>
+    </div>
+
+    <div class="container">
+      <h2>Naruci odma!</h2>
+      <a href="#" class="cta">Get Started</a>
+    </div>
+
+    <footer>
+      <div class="footer container">
+          <div class="container">
+            <a href="#">
+                <img src="images/logo-white.svg" class=logo alt="logo">
+            </a>
+                <p class="adress"> Zagreb 10000 <br>CRO</p>
+                <ul class="footer-links">
+                  <li><a href="#"> Terms of Service</a></li>
+                  <li><a href="#">Privacy Policy</a></li>
+
+                </ul>
+          </div>
+
+      </div>
+    </footer>
+
+  </body>
